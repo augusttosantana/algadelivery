@@ -1,3 +1,5 @@
+
+
 spring:
   application:
     name: Courier-Management
@@ -9,3 +11,5 @@ spring:
     url: jdbc:postgresql://localhost:5432/courierdb
     username: postgres
     password: postgres
+server:
+  port: 8081
